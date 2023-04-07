@@ -1,0 +1,7 @@
+<templateSet group="Laravel">lication\ Support/JetBrains/PhpStorm2022.3/templates/Laravel.xml                                                                                                                       ✔  at 16:45:22 
+    <template name="test" value="/** @test */&#10;public function $SNAKENAME$()&#10;{&#10;    $END$// What are you going to test? $NAME$&#10;    $this-&gt;assertTrue(true);&#10;}" toReformat="false" toShortenFQNames="true">
+        <variable name="SNAKENAME" expression="" defaultValue="" alwaysStopAt="true" />
+        <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    </template>
+</templateSet>
+
